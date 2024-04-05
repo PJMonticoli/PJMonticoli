@@ -38,6 +38,10 @@ About me
         alt="docker" title="mongodb" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" 
         alt="mongodb" title="mongodb" width="40px" height="40px">&nbsp;        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" 
+        alt="github" title="mongodb" width="40px" height="40px">&nbsp;        
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" 
+        alt="github" title="supabase" width="40px" height="40px">&nbsp;        
     </div>
 </div>
 
