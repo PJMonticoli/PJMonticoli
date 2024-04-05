@@ -35,11 +35,11 @@ About me
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" 
         alt="mongodb" title="mongodb" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" 
-        alt="docker" title="mongodb" width="40px" height="40px">&nbsp;
+        alt="docker" title="docker" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg" 
-        alt="mongodb" title="mongodb" width="40px" height="40px">&nbsp;        
+        alt="dotnet" title="dotnet" width="40px" height="40px">&nbsp;        
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" 
-        alt="github" title="mongodb" width="40px" height="40px">&nbsp;        
+        alt="github" title="github" width="40px" height="40px">&nbsp;        
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" 
         alt="github" title="supabase" width="40px" height="40px">&nbsp;        
     </div>
