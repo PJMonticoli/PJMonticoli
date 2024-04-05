@@ -50,6 +50,6 @@ About me
 ---
 ### 🔥 My Stats:
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PJMonticoli&theme=dark&locale=es)](https://git.io/streak-stats)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJMonticoli)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJMonticoli)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PJMonticoli&show_icons=true&theme=dark)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact)
