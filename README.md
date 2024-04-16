@@ -10,6 +10,7 @@ About me
 - Full Stack Web Developer (HTML,CSS,JS,Angular,node.js,java).
 - Looking for an enthusiastic experience to improve my skils on Programing.
 - How to reach me : Mail me at pablo_monticoli@hotmail.com
+- Linkedin Profile : Pablo Javier Monticoli
 
 ---
 ### 
