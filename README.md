@@ -6,8 +6,11 @@
 
 ### 
 About me
-- 🔭I’m currently working on a programming tesis at National Technical University.
-- Full Stack Web Developer (HTML,CSS,JS,Angular,node.js,java).
+- 🔭 I'm currently doing internships at Jose Guma S.A as a Full Stack Developer.
+- Front End Developer(HTML,CSS,JS,Angular,node.js,Supabase).
+- Back End Developer (.NET,C#,Java, and currently learning Python).
+- Database Management (SQL Server/Mysql/PostgreSQL/MongoDB).
+- SCRUM Methodology (Jira Software).
 - Looking for an enthusiastic experience to improve my skils on Programing.
 - How to reach me : Mail me at pablo_monticoli@hotmail.com
 - Linkedin Profile : Pablo Javier Monticoli
