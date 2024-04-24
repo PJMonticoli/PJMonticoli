@@ -26,6 +26,8 @@ About me
         alt="CSS" title="CSS" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
         alt="javascript" title="javascript" width="40px" height="40px">&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" 
+        alt="typecript" title="typescript" width="40px" height="40px">&nbsp;        
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" 
         alt="Angular" title="Angular" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" 
