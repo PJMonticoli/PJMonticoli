@@ -32,6 +32,8 @@ About me
         alt="java" title="java" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" 
         alt="c#" title="c#" width="40px" height="40px">&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" 
+        alt="python" title="python" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" 
         alt="nodejs" title="nodejs" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" 
