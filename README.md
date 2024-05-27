@@ -7,8 +7,8 @@
 ### 
 About me
 - 🔭 I'm currently doing internships at Jose Guma S.A as a Full Stack Developer.
-- Front End Developer(HTML,CSS,JS,Angular,node.js,Supabase).
-- Back End Developer (.NET,C#,Java, and currently learning Python).
+- Front End Developer(HTML,CSS,JS,Angular,node.js,Reflex).
+- Back End Developer (.NET,C#,Java, Supabase, Python and Reflex).
 - Database Management (SQL Server/Mysql/PostgreSQL/MongoDB).
 - SCRUM Methodology (Jira Software).
 - Looking for an enthusiastic experience to improve my skils on Programing.
