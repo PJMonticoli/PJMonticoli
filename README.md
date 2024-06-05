@@ -59,14 +59,15 @@ About me
 ---
 ### 🔥 GitHub Stats:
 <div align="start">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=PJMonticoli&theme=dark&locale=es" alt="GitHub Streak" style="width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PJMonticoli&theme=dark&locale=es" alt="GitHub Streak" style="width: 500px;">
 </div>
 <div align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=PJMonticoli&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PJMonticoli&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 500px;">
 </div>
 <div align="start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact&theme=dark" alt="Top Languages" style="width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact&theme=dark" alt="Top Languages" style="width: 500px;">
 </div>
+
 
 
 
