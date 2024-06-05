@@ -57,6 +57,7 @@ About me
 
 
 ---
-### 🔥 Most Used Languages:
+### 🔥 GitHub Stats:
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PJMonticoli&theme=dark&locale=es)](https://git.io/streak-stats)
 - ![PJMonticoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJMonticoli&show_icons=true&theme=dark)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact&theme=dark)
