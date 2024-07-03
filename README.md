@@ -32,6 +32,10 @@ About me
         alt="typecript" title="typescript" width="40px" height="40px">&nbsp;        
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" 
         alt="Angular" title="Angular" width="40px" height="40px">&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" 
+        alt="astro" title="astro" width="40px" height="40px">&nbsp; 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" 
+        alt="github" title="supabase" width="40px" height="40px">&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" 
         alt="java" title="java" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" 
@@ -50,8 +54,6 @@ About me
         alt="dotnet" title="dotnet" width="40px" height="40px">&nbsp;        
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" 
         alt="github" title="github" width="40px" height="40px">&nbsp;        
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" 
-        alt="github" title="supabase" width="40px" height="40px">&nbsp;        
     </div>
 </div>
 
