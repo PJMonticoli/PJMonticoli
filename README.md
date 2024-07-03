@@ -35,7 +35,9 @@ About me
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/astro/astro-original.svg" 
         alt="astro" title="astro" width="40px" height="40px">&nbsp; 
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" 
-        alt="github" title="supabase" width="40px" height="40px">&nbsp; 
+        alt="supabase" title="supabase" width="40px" height="40px">&nbsp; 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original-wordmark.svg" 
+        alt="Spring" title="Spring" width="40px" height="40px">&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" 
         alt="java" title="java" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" 
@@ -46,6 +48,10 @@ About me
         alt="nodejs" title="nodejs" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" 
         alt="mysql" title="mysql" width="40px" height="40px">&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
+        alt="SQLServer" title="SQLServer" width="40px" height="40px">&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" 
+        alt="Postgresql" title="Postgresql" width="40px" height="40px">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" 
         alt="mongodb" title="mongodb" width="40px" height="40px">&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" 
