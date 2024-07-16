@@ -1,8 +1,17 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200px">
     <h2 align="center">Hi 👋, I'm Pablo.</h2>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/)
     <h4 align="center">Over 1 year of experience as a Full-Stack Developer, graduated from the National Technological University. Specialized in developing unique applications and continuous learning. </h4>
+      <a
+    href="https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/"
+    target="_blank"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"
+      alt="LinkedIn"
+      width="30"
+      height="30"
+    />
 </div>
 
 ### 
@@ -13,8 +22,7 @@ About me
 - Database Management (SQL Server/Mysql/PostgreSQL/MongoDB).
 - SCRUM Methodology (Jira Software).
 - Looking for an enthusiastic experience to improve my skils on Programing.
-- How to reach me : Mail me at pablo_monticoli@hotmail.com
-- Linkedin Profile : Pablo Javier Monticoli
+- Contact me: pablo_monticoli@hotmail.com
 - My other GitHub account https://github.com/PMonticoli
 - My portfolio: <a href="https://pablodevportfolio.netlify.app/" target="_blank">https://pablodevportfolio.netlify.app/</a>
 
