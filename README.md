@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Pablo Monticoli
-
 ## 🚀 Software Developer 
-
  Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
 
 ### 🔧 Current Work
@@ -50,9 +48,9 @@
 
 ### 📫 Get in Touch
 - 📧 Email: pablo_monticoli@hotmail.com
-- 💼 LinkedIn: [Pablo Javier Monticoli](https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/)
-- 🌐 Portfolio: [Pablo Dev Portfolio](https://pablodevportfolio.netlify.app/)
-- 🔗 Alternative GitHub: [PMonticoli](https://github.com/PMonticoli)
+- 💼 LinkedIn: [Pablo Javier Monticoli](https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/){:target="_blank"}
+- 🌐 Portfolio: [Pablo Dev Portfolio](https://pablodevportfolio.netlify.app/){:target="_blank"}
+- 🔗 Alternative GitHub: [PMonticoli](https://github.com/PMonticoli){:target="_blank"}
 
 ### 🎯 Looking For
 Seeking enthusiastic opportunities to further improve my programming skills and contribute to innovative projects.
