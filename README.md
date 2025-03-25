@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Pablo Monticoli
 
-## 🚀 Full-Stack Developer | Continuous Learner
+## 🚀 Software Developer 
 
-Passionate Full-Stack Developer with over 1 year of experience, recently graduated from the National Technological University. I specialize in creating unique applications and am always eager to expand my technological horizons.
+ Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
 
 ### 🔧 Current Work
 - 💼 Working at Hotaka iKhodi as a Software Developer
