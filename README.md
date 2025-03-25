@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Pablo Monticoli
 ## 🚀 Software Developer 
- Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
+Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
 
 ### 🔧 Current Work
 - 💼 Working at Hotaka iKhodi as a Software Developer
 - 🌱 Continuously improving my programming skills
 
 ### 🛠️ Tech Stack
-
 #### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -47,10 +46,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact&theme=dark)
 
 ### 📫 Get in Touch
-- 📧 Email: pablo_monticoli@hotmail.com
-- 💼 LinkedIn: [Pablo Javier Monticoli](https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/){:target="_blank"}
-- 🌐 Portfolio: [Pablo Dev Portfolio](https://pablodevportfolio.netlify.app/){:target="_blank"}
-- 🔗 Alternative GitHub: [PMonticoli](https://github.com/PMonticoli){:target="_blank"}
+- 📧 Email: [pablo_monticoli@hotmail.com](mailto:pablo_monticoli@hotmail.com)
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/pablo-javier-mont%C3%ADcoli-b69733248/" target="_blank">Pablo Javier Monticoli</a>
+- 🌐 Portfolio: <a href="https://pablodevportfolio.netlify.app/" target="_blank">Pablo Dev Portfolio</a>
+- 🔗 Alternative GitHub: <a href="https://github.com/PMonticoli" target="_blank">PMonticoli</a>
 
 ### 🎯 Looking For
 Seeking enthusiastic opportunities to further improve my programming skills and contribute to innovative projects.
