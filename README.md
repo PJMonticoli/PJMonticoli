@@ -46,7 +46,6 @@ Passionate Full-Stack Developer with over 1 year of experience, recently graduat
 ![SCRUM](https://img.shields.io/badge/-SCRUM-6CB33E?style=flat-square&logo=jira&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PJMonticoli&theme=dark&locale=es)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJMonticoli&layout=compact&theme=dark)
 
 ### 📫 Get in Touch
