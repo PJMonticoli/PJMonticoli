@@ -3,7 +3,7 @@
 Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
 
 ### 🔧 Current Work
-- 💼 Working at Hotaka iKhodi as a Software Developer
+- 💼 Working at Allata as a Sr Consultant Tech & Cloud.
 - 🌱 Continuously improving my programming skills
 
 ### 🛠️ Tech Stack
